@@ -11,7 +11,7 @@ public class Widget {
 	 * Create new enabled widget
 	 */
 	public Widget() {
-		enabled = true;
+		enabled = true;// enabled = false
 	}
 
 	/**
